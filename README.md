@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## About Me
-I am a second-year Masters student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in Medical Imaging.
+I am a second-year Masters student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in Medical Imaging. I am an enthusiast passionate about revolutionizing medical science's future, seamlessly blending Machine Leaning with healthcare practices to make a lasting impact. 
 
 
 ## Research Interests
