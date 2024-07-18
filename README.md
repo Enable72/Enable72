@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## About Me
-I am a second-year Masters student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in Medical Imaging. I am an enthusiast passionate about revolutionizing medical science's future, seamlessly blending Machine Leaning with healthcare practices to make a lasting impact. 
+I am a PhD student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in AI and Medical Imaging. I am working in the domain eye-tracking and gaze estimation, focusing on innovative applications within the medical field. My passion for technology extends to image processing, where I explore new ways to apply these skills effectively. With a drive for continuous learning, I've engaged in various projects that have enriched my expertise in AI and Machine Learning.
 
 
 ## Research Interests
-Computer vision, Machine Learning, Bioinformatics, Surgical Robotics
+Computer vision, Machine Learning, Image Processing
 
 -------------------
 
