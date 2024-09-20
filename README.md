@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## About Me
-I am a PhD student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in AI and Medical Imaging. I am working in the domain eye-tracking and gaze estimation, focusing on innovative applications within the medical field. My passion for technology extends to image processing, where I explore new ways to apply these skills effectively. With a drive for continuous learning, I've engaged in various projects that have enriched my expertise in AI and Machine Learning.
+I am a PhD student at the University of California, San Diego, majoring in Electrical and Computer Engineering. I am specializing in AI and Medical Imaging. I am working in the domain eye-tracking and compression, focusing on innovative applications within the medical field. My passion for technology extends to image and video processing, where I explore new ways to apply these skills effectively. With a drive for continuous learning, I've engaged in various projects that have enriched my expertise in AI and Machine Learning.
 
 
 ## Research Interests
